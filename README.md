@@ -38,8 +38,7 @@ You can input details like **bedrooms**, **bathrooms**, **stories**, and **air c
 
 ---
 
-## 🎥 Demo Animation  
-> You can create a `.gif` using [ScreenToGif](https://www.screentogif.com/) or [LICEcap](https://www.cockos.com/licecap/)
+
 
 <p align="center">
   <img src="images/demo.gif" alt="Demo" width="700"/>
