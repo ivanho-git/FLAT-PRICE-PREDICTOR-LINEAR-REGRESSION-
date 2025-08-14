@@ -6,8 +6,7 @@ End-to-end ML web app | Streamlit + scikit-learn | House Price Prediction"
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-Model-orange?logo=scikit-learn)  
 
-<p align="center">
-  <img src="images/demo.gif" alt="App Demo" width="700"/>
+
 </p>
 
 ---
@@ -31,8 +30,10 @@ You can input details like **bedrooms**, **bathrooms**, **stories**, and **air c
 > Add your app screenshots here for reference
 
 <p align="center">
-  <img src="images/homepage.png" alt="Homepage" width="700"/>  
-  <img src="images/prediction.png" alt="Prediction Example" width="700"/>  
+<img width="1881" height="800" alt="Screenshot 2025-08-14 095442" src="https://github.com/user-attachments/assets/f67d787f-d625-4e45-9b1d-a5db9c2e7716" />
+
+<img width="1895" height="803" alt="Screenshot 2025-08-14 095522" src="https://github.com/user-attachments/assets/007ae61b-0477-4566-a1c2-60d6a86460fa" />
+
 </p>
 
 ---
